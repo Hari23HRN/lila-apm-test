@@ -1,6 +1,6 @@
 # LILA BLACK — Player Journey Visualizer
 
-**Live URL:** https://inspiring-pothos-e1abf6.netlify.app/
+**Live URL:** https://candid-gnome-b2ab14.netlify.app/
 
 ## Tech Stack
 - Python (PyArrow, Pandas) for data processing
